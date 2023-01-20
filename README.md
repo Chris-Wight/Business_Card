@@ -15,7 +15,8 @@ Finished.
 
 ## Setup
 To run this project, save files locally & run within a browser of choice.
-HTML Preview - https://htmlpreview.github.io/?https://github.com/Chris-Wight/Business_Card/blob/main/index.html
+<!-- -->
+HTML Preview - https://chris-wight.github.io/Business_Card/
 
 ## Project Origin
 Codecademy CSS Effects Course.
